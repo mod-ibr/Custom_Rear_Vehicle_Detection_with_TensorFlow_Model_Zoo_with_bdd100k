@@ -1,7 +1,7 @@
-# Training a Custom model for Vehicle Detection with TensorFlow 2 Detection Model Zoo with bdd100k dataset.
+# Training a Custom model for Rear-Vehicle Detection with TensorFlow 2 Detection Model Zoo with bdd100k dataset.
 ### Introduction about this repository: 
 * Read the descriptions and comments in Jupyter files.
-* This repository is for Custom Vehicle Detection 'car, bus, truck' with bdd100k dataset
+* This repository is for Custom Rear-Vehicle Detection 'car, bus, truck' with bdd100k dataset
 * The data preparation file depends on our use case, update the file to be compatible with your use case.
 * We chose 'ssd_mobilenet_v2_fpnlite_320x320' for our case with trade-off its acceptable mean absolute precision 'mAP', and Speed in (ms) 'Problem dependant'.
 * If you want to use another model, replace its name with our used model name, link, and model file name.
