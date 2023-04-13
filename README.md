@@ -1,4 +1,4 @@
-# Custom model for Vehicle Detection with TensorFlow 2 Detection Model Zoo with bdd100k.
+# Custom model for Vehicle Detection with TensorFlow 2 Detection Model Zoo with bdd100k dataset.
 ### Introduction about this repository: 
 * Read the descriptions and comments in Jupyter files.
 * This repository is for Custom Vehicle Detection 'car, bus, truck' with bdd100k dataset
